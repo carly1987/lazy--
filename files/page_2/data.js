@@ -1,0 +1,475 @@
+﻿$axure.loadCurrentPage({
+  "url":"page_2.html",
+  "generationDate":new Date(1390970837667.52),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"AxStPage",
+"AxStOrientation"],
+  "page":{
+    "packageId":"d3d96940d8fa4fbfbac239345e3a0bd4",
+    "type":"Axure:Page",
+    "name":"Page 2",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"22e41717ac2d4ad6ab079eb19c03d3ef",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "location":{
+              "x":340,
+              "y":79},
+            "size":{
+              "width":450,
+              "height":731}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"60652553d3a34c33b25571930733d5b7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "location":{
+                  "x":340,
+                  "y":79},
+                "size":{
+                  "width":450,
+                  "height":731}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/home/u0.png"}},
+{
+          "id":"4c8aa792b8e7471b9e5a0ab70ca0db36",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":406,
+              "y":199},
+            "size":{
+              "width":320,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"61a8c776fcf342148ecc70203f396bb3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":406,
+                  "y":199},
+                "size":{
+                  "width":320,
+                  "height":60}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/page_1/u2.png"}},
+{
+          "id":"0d193abdfd7540a1a4c24f978e75a8a5",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":406,
+              "y":217},
+            "size":{
+              "width":24,
+              "height":24},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d60812381bf64642a08aca8dad359c19",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":406,
+                  "y":217},
+                "size":{
+                  "width":24,
+                  "height":24},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Page 1 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"page_1.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/page_2/u4.png"}},
+{
+          "id":"12b9698fa3c840828f3ff17704098822",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'Heiti SC Light', 'Heiti SC'",
+            "fontWeight":"200",
+            "fontStyle":"normal",
+            "location":{
+              "x":525,
+              "y":212.5},
+            "size":{
+              "width":65,
+              "height":33}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8605655046744fceb8956ad5a5379914",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Heiti SC Light', 'Heiti SC'",
+                "fontWeight":"200",
+                "fontStyle":"normal",
+                "location":{
+                  "x":525,
+                  "y":212.5},
+                "size":{
+                  "width":65,
+                  "height":33}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"00b2cde52d29401987a7b0d4d9bc570c",
+          "label":"",
+          "type":"comboBox",
+          "styleType":"comboBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":500,
+              "y":288},
+            "size":{
+              "width":200,
+              "height":22}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"63a75f0646d64c62b9dec8eb7f299c00",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Heiti SC Light', 'Heiti SC'",
+            "fontWeight":"200",
+            "location":{
+              "x":431,
+              "y":292},
+            "size":{
+              "width":53,
+              "height":15}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"098dcf3e97114b588697cdf3d18132fc",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Heiti SC Light', 'Heiti SC'",
+                "fontWeight":"200",
+                "location":{
+                  "x":431,
+                  "y":292},
+                "size":{
+                  "width":53,
+                  "height":15}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"ab3defca52914556b664ec27a056ebaf",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Heiti SC Light', 'Heiti SC'",
+            "fontWeight":"200",
+            "location":{
+              "x":457,
+              "y":335},
+            "size":{
+              "width":27,
+              "height":15}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"687f95c0b98e40f787cf753d659f2375",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Heiti SC Light', 'Heiti SC'",
+                "fontWeight":"200",
+                "location":{
+                  "x":457,
+                  "y":335},
+                "size":{
+                  "width":27,
+                  "height":15}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"887236601c4f42d9a7d679f473198d61",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":500,
+              "y":326},
+            "size":{
+              "width":200,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"1c0d268553cf49ed89c81358cb163b30",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Heiti SC Light', 'Heiti SC'",
+            "fontWeight":"200",
+            "location":{
+              "x":457,
+              "y":380},
+            "size":{
+              "width":27,
+              "height":15}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6dd0912444d94608996e165802ea704d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Heiti SC Light', 'Heiti SC'",
+                "fontWeight":"200",
+                "location":{
+                  "x":457,
+                  "y":380},
+                "size":{
+                  "width":27,
+                  "height":15}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"46bbbdc9e5c8489890887b8422f0b71e",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":500,
+              "y":371},
+            "size":{
+              "width":200,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"12da5019b94c4ebfa5b6907a8790eae3",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Heiti SC Light', 'Heiti SC'",
+            "fontWeight":"200",
+            "location":{
+              "x":457,
+              "y":428},
+            "size":{
+              "width":27,
+              "height":15}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9e653ba4d8b24798b941e4bac23a4909",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Heiti SC Light', 'Heiti SC'",
+                "fontWeight":"200",
+                "location":{
+                  "x":457,
+                  "y":428},
+                "size":{
+                  "width":27,
+                  "height":15}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"3f28f205f77a49a19c1511564e229329",
+          "label":"",
+          "type":"textArea",
+          "styleType":"textArea",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":500,
+              "y":420},
+            "size":{
+              "width":200,
+              "height":120}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"d292fbb7ba4146888b780210cf43c058",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "fontName":"'Heiti SC Light', 'Heiti SC'",
+            "fontWeight":"200",
+            "location":{
+              "x":431,
+              "y":571},
+            "size":{
+              "width":269,
+              "height":39}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Page 1 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"page_1.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "22e41717ac2d4ad6ab079eb19c03d3ef":{
+      "scriptId":"u0"},
+    "60652553d3a34c33b25571930733d5b7":{
+      "scriptId":"u1"},
+    "4c8aa792b8e7471b9e5a0ab70ca0db36":{
+      "scriptId":"u2"},
+    "61a8c776fcf342148ecc70203f396bb3":{
+      "scriptId":"u3"},
+    "0d193abdfd7540a1a4c24f978e75a8a5":{
+      "scriptId":"u4"},
+    "d60812381bf64642a08aca8dad359c19":{
+      "scriptId":"u5"},
+    "12b9698fa3c840828f3ff17704098822":{
+      "scriptId":"u6"},
+    "8605655046744fceb8956ad5a5379914":{
+      "scriptId":"u7"},
+    "00b2cde52d29401987a7b0d4d9bc570c":{
+      "scriptId":"u8"},
+    "63a75f0646d64c62b9dec8eb7f299c00":{
+      "scriptId":"u9"},
+    "098dcf3e97114b588697cdf3d18132fc":{
+      "scriptId":"u10"},
+    "ab3defca52914556b664ec27a056ebaf":{
+      "scriptId":"u11"},
+    "687f95c0b98e40f787cf753d659f2375":{
+      "scriptId":"u12"},
+    "887236601c4f42d9a7d679f473198d61":{
+      "scriptId":"u13"},
+    "1c0d268553cf49ed89c81358cb163b30":{
+      "scriptId":"u14"},
+    "6dd0912444d94608996e165802ea704d":{
+      "scriptId":"u15"},
+    "46bbbdc9e5c8489890887b8422f0b71e":{
+      "scriptId":"u16"},
+    "12da5019b94c4ebfa5b6907a8790eae3":{
+      "scriptId":"u17"},
+    "9e653ba4d8b24798b941e4bac23a4909":{
+      "scriptId":"u18"},
+    "3f28f205f77a49a19c1511564e229329":{
+      "scriptId":"u19"},
+    "d292fbb7ba4146888b780210cf43c058":{
+      "scriptId":"u20"}}});
